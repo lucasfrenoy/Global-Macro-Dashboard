@@ -18,4 +18,4 @@ uv run streamlit run app.py
 ```
 
 ## Live demo
-[Add your Streamlit Community Cloud link here once deployed]
+https://global-macro-dashboard-cqfot5dlndpeoe5gaobbqc.streamlit.app
