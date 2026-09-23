@@ -2,7 +2,6 @@
 
 A live market monitor built with Streamlit, tracking Indices, Stocks, Currencies, Bonds and Commodities in one place.
 
-https://global-macro-dashboard-cqfot5dlndpeoe5gaobbqc.streamlit.app
 
 ## Features
 - Sidebar navigation across five asset classes
